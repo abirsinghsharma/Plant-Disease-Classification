@@ -57,5 +57,5 @@ if uploaded:
         )
 
         st.caption(
-            "This is an AI estimate, not a confirmed diagnosis."
+            "This is a model estimate, not a confirmed diagnosis."
         )
